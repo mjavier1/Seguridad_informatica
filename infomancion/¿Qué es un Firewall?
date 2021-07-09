@@ -1,0 +1,10 @@
+Firewall y WAF
+¿Qué es un Firewall?
+
+El cortafuegos o firewall en inglés, en el mundo de la informática es un sistema de seguridad para bloquear accesos no autorizados a un ordenador mientras sigue permitiendo la comunicación de tu ordenador con otros servicios autorizados. También se utilizan en redes de ordenadores, especialmente en intranets o redes locales. Se trata de una de las primeras medidas de seguridad que empezó a implementarse en los ordenadores tras el nacimiento de Internet.
+
+Su origen se remonta a finales de la década de los 80, cuando Internet daba sus primeros pasos y los primeros hackers descubrieron que con esta nueva red podían infiltrarse y hacer travesuras en los ordenadores de otras personas, lo que llevó a a una serie de importantes violaciones de seguridad y ataques de malware.
+
+¿Qué es un Firewall Web(WAF)?
+
+Un firewall de aplicaciones web (WAF) es un tipo de firewall que supervisa, filtra o bloquea el tráfico HTTP hacia y desde una aplicación web. Se diferencia de un firewall normal en que puede filtrar el contenido de aplicaciones web específicas, mientras que un firewall de red protege el tráfico entre los servidores. Al inspeccionar el tráfico HTTP un WAF protege a las aplicaciones web contra ataques como los de inyección SQL, XSS y falsificación de petición de sitios cruzados (CSRF).
