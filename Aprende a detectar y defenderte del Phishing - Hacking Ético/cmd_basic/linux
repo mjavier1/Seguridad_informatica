@@ -3,3 +3,10 @@ cd directorio terminal
 ls todos 
 cd .. volver otras vez pantalla principal
 cd /
+mdkir crear una carpeta  file
+cat llamar ver esta escrito file txt
+rmdir borrar
+touch documento crear 
+rm para borrar
+cp copiar
+mv para mover archivos
